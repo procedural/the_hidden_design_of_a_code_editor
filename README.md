@@ -6,7 +6,7 @@
 * When you search for something, the screen centers on a match, so if there are multiple matches, moving back and forth between them shows the visual difference.
 * Ctrl + arrow keys skip logical parts of the word, not the whole word.
 * Ctrl + Delete, Ctrl + Backspace deletes only logical parts of the word, not the whole word.
-* Triple click to select the whole line.
+* Triple click selects the whole line.
 * If you Ctrl + F the text, the matches will stay highlighted no matter what you do in the editor until you clear the search.
 * If you just point a cursor on a known type or variable, it will slightly highlight the matches.
 * Ctrl + F and typing won't start the search immediately until you press F3.
