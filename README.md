@@ -10,3 +10,4 @@
 * If you Ctrl + F the text, the matches will stay highlighted no matter what you do in the editor until you clear the search.
 * If you just point a cursor on a known type or variable, it will slightly highlight the matches.
 * Ctrl + F and typing won't start the search immediately until you press F3, or Enter key when in the search field.
+* Ctrl + Delete should delete up to, but not including, any non-whitespace character.
