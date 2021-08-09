@@ -1,7 +1,7 @@
 * Immediate highlight of `#if 0` and `#endif` blocks.
 * When you load a project, the editor opens it at the exact place, at the exact line, since the last time you closed it.
 * Shift + left click on the scrollbar will jump to the pointed place.
-* Highlighting text and pressing Ctrl + F will automatically paste the highlighted text to the search field.
+* Selecting text and pressing Ctrl + F will automatically paste the selected text to the search field.
 * Just selecting some text highlights other matches.
 * When you search for something, the screen centers on a match, so if there are multiple matches, moving back and forth between them shows the visual difference.
 * Ctrl + arrow keys skip logical parts of the word, not the whole word.
