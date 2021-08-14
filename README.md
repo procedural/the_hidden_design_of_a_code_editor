@@ -11,3 +11,5 @@
 * If you just point a cursor on a known type or variable, it will slightly highlight the matches.
 * Ctrl + F and typing won't start the search immediately until you press F3, or Enter key when in the search field.
 * Ctrl + Delete should delete up to, but not including, any non-whitespace character.
+* Remap Ctrl + Left click to Alt + Left click to jump to declaration.
+* Complete enum parameters based on enum's repeating part.
