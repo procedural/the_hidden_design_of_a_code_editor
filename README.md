@@ -13,3 +13,4 @@
 * Ctrl + Delete should delete up to, but not including, any non-whitespace character.
 * Remap Ctrl + Left click to Alt + Left click to jump to declaration.
 * Complete enum parameters based on enum's repeating part.
+* Double clicking on a word should highlight the whole word, including its `_` characters.
